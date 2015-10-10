@@ -1,0 +1,10 @@
+#
+#
+#
+/poubelles/broque1NS/tmp/kubryk/data-GADGET1/  # load path
+#/home/maxime/data-GADGET1/  # load path
+#/poubelles/broque1NS/tmp/kubryk/data-GADGET3/
+#
+#
+works/res-works/angmom2/     # savepath = home + "..."
+##

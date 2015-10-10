@@ -1,0 +1,90 @@
+#
+# anything
+#
+    50
+    0.
+    5.
+
+#
+# radius (kpc)
+#
+    200        # nrad
+    0.         # radmin 
+    15.6        # radmax
+#
+# Delta R (kpc)
+#
+    100
+    -5.
+    5.
+#
+# theta (radians)
+#
+	100
+	-3.14
+	3.14
+#
+# vertical z (kpc)
+#
+    200       # nz
+    -5.      # zmin
+    5.       # zmax
+#
+# Time (Gyr)
+#
+    100
+    0.1
+    7.1
+#
+# Z angular momentum L (kpc**2/Gyr)
+#
+    100
+    0.
+    4000.
+#
+# Delta L (kpc**2/Gyr)
+#
+    200
+    -1500.
+    1500.
+#
+# tang. velocities (kpc/Gyr)
+#
+    100
+    -200.
+    100.
+#
+# radial velocities (kpc/Gyr)
+#
+    100
+    -200. #-150
+    200.  # 150
+#
+# angular speed (rad/Gyr)
+#
+    200
+    -50.
+    150.
+#
+#
+#
+    2000      # ntime
+    35        # nmet
+    29        # nalpha
+    100       # nage
+
+
+
+# 
+    0.2   # power
+#
+    0     # save
+#
+    18 #16    # police size
+    20 #18    # latex police size 
+
+#
+# select the files to load
+#
+    5   
+
